@@ -1,0 +1,51 @@
+.wrapper-btn-bg {
+    background-color: #051DDE;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2rem;
+    border: 1px solid #051DDE ;
+    color: azure;
+}
+.wrapper-btn-blue {
+    background-color: transparent;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 1rem;
+    border: 1px solid #051DDE ;
+    color: #051DDE;
+}
+.wrapper-btn-white   {
+    background-color: transparent;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 1rem;
+    border: 1px solid #ffffff ;
+    color: #ffffff;
+}
+
+.wrapper-bg-gradient {
+    background: #92b3f4;
+    background: -moz-linear-gradient(top, #92b3f4 0%, #ffffff 100%);
+    background: -webkit-linear-gradient(top, #92b3f4 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #92b3f4 0%,#ffffff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#92b3f4', endColorstr='#ffffff',GradientType=0 );
+}
+
+.col-md-5 > .input    {
+    background: #01044E;
+    border-radius: 2rem;
+    height: 4rem;
+    border: none;
+    padding: 10px;
+}
+.input > input {
+    background: none;
+    border: none;
+    outline: none;
+}
+a {
+    text-decoration: none;
+}
