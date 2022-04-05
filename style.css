@@ -1,0 +1,97 @@
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue Medium'), local('Helvetica-Neue-Medium'),
+        url('HelveticaNeueCyr-Medium.woff2') format('woff2'),
+        url('HelveticaNeueCyr-Medium.woff') format('woff'),
+        url('HelveticaNeueCyr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+.wrapper-btn-bg {
+    background-color: #051DDE;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2rem;
+    border: 1px solid #051DDE ;
+    color: azure;
+}
+.wrapper-btn-blue {
+    background-color: transparent;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2rem;
+    border: 1px solid #051DDE ;
+    color: #051DDE;
+}
+.wrapper-btn-grey {
+    background-color: transparent;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 1rem;
+    border: 2px solid #D6D6D6 ;
+    color: #606977;
+}
+.wrapper-btn-white   {
+    background-color: transparent;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    border-radius: 1rem;
+    border: 1px solid #ffffff ;
+    color: #ffffff;
+}
+
+.wrapper-bg-gradient {
+    background: rgb(146,179,244);
+    background: linear-gradient(180deg, rgba(146, 179, 244, 0.438) 0%, rgba(146,179,244,0) 12%, rgba(255,255,255,1) 28%, rgba(255,255,255,1) 100%);
+
+}
+.col-md-5 > .input    {
+    background: #01044E;
+    border-radius: 2rem;
+    height: 4rem;
+    border: none;
+    padding: 10px;
+}
+form > div > div > input {
+    background: none;
+    border: none;
+    outline: none;
+}
+a {
+    text-decoration: none;
+}
+div > .wrapper-bg-gradient {
+    border-radius: 2rem;
+}
+div > .wrapper-btn-bg {
+    background-color: #051DDE;
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+.wrapper-tc-blue {
+    color: #0D3380;
+}
+.wrapper-tc-bluelighter {
+    color: #051DDE;
+}
+.wrapper-ts-55 {
+    font-size: 55px;
+}
+.wrapper-ts-34 {
+    font-size: 34px;
+}
+.wrapper-ts-24 {
+    font-size: 24px;
+}
+.wrapper-ts-20 {
+    font-size: 20px;
+}
+.wrapper-ts-18 {
+    font-size: 18px;
+}
